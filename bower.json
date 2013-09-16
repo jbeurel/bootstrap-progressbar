@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-progressbar",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jbeurel/bootstrap-progressbar",
+  "authors": [
+    "Jonathan Beurel <jonathanb@theodo.fr>"
+  ],
+  "description": "Progressbar Plugin for Bootstrap",
+  "keywords": [
+    "bootstrap",
+    "progressbar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.0.0"
+  }
+}
