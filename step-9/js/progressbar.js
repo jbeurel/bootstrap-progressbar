@@ -23,7 +23,7 @@
     }
 
     Progressbar.prototype.getOptions = function (options) {
-        options = $.extend({}, Progressbar.DEFAULTS, this.$element.data(), options);
+        options = $.extend({}, this.DEFAULTS, this.$element.data(), options);
 
         return options
     }
